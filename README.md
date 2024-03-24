@@ -5,7 +5,7 @@
 - 📫 Contate-me no email: andreyfrsouz@gmail.com
 
 <a href="https://github.com/Andrey-de-Freitas-Souza">
-  <img height="250em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-de-Freitas-Souza&langs_count=4&theme=dark&card_width=500px&locale=pt-br" />
+  <img height="250em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-de-Freitas-Souza&langs_count=5&theme=dark&card_width=500px&locale=pt-br" />
 </a>
 <div style="display: inline_block"><br> 
   <img align="center" alt="Rafa-HTML" height="60" width="80"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />      
